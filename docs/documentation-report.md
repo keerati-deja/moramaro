@@ -1,6 +1,6 @@
 # Documentation foundation delivery report
 
-Date: **2026-11-17**. Scope: documentation only, prepared in the separate MoraMaro workspace. No PLP files, database, branches, deployment, or configuration were changed. No engine features, package, runtime dependencies, remote repository, deployment, or license grant were introduced.
+Date: **2026-11-17**. Scope: documentation only. No PLP files, database, branches, deployment, or configuration were changed. The MoraMaro repository is public; no engine features, runtime dependencies, or license grant were introduced.
 
 ## 1. Created files
 

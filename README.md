@@ -4,7 +4,7 @@ MoraMaro is an independent Japanese linguistic engine project for mora segmentat
 
 The project is intended for application developers, Japanese learners and teachers, and researchers who need explicit readings, accent alternatives, and traceable linguistic evidence. Its long-term scope includes morphology-aware accent resolution, while keeping grammatical form generation, reading determination, accent resolution, and visualization separate.
 
-**Current status: documentation foundation, before engine extraction.** This workspace contains no independent runtime package, installation command, or supported usage API. Existing functionality described here belongs to the inspected PLP source snapshots; it has not yet been released as MoraMaro. See the [implementation audit](docs/implementation-audit.md) for exact evidence and limitations.
+**Current status: documentation foundation, before engine extraction.** This repository contains no independent runtime package, installation command, or supported usage API. Existing functionality described here belongs to the inspected PLP source snapshots; it has not yet been released as MoraMaro. See the [implementation audit](docs/implementation-audit.md) for exact evidence and limitations.
 
 ## The name
 
